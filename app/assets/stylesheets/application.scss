@@ -14,3 +14,7 @@
  *= require_self
  */
  @import "components/index";
+
+ .app-container{
+  min-height: 100vh;
+}
